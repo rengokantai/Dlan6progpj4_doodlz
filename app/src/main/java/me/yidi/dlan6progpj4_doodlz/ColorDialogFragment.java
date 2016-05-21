@@ -10,9 +10,8 @@ import android.support.v4.app.DialogFragment;
 import android.view.View;
 import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
-/**
- * Created by Hernan Y.Ke on 2016/5/20.
- */
+
+// class for the Select Color dialog
 public class ColorDialogFragment extends DialogFragment {
     private SeekBar alphaSeekBar;
     private SeekBar redSeekBar;
